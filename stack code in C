@@ -23,3 +23,17 @@ return val;
 printf(" Execption from pop! Empty stack\n");
 return -1;
 }
+
+int main(){
+printf("Implementing my stack in C.\n");
+
+peek();
+push(10);
+push(15);
+push(20);
+
+Printf("POP Item:%d \n", pop());
+push(50);
+printf("Top of stack: %d\n", peek());
+reyurn 0;
+}
