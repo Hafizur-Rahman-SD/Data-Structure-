@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+stuct Node{
+int data;
+struct node next;
+};
+
+int main(){
