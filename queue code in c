@@ -5,6 +5,7 @@
 
 int ourQueue[CAPACITY];
 int front = 0, rear = -1, totalItem = 0;
+//1st part 
 
 bool isFull(){
     if(totalItem == CAPACITY){
