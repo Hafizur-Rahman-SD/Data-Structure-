@@ -14,7 +14,7 @@ else {
 printf("Exception No space \n");}
 }
 
-int pop(){
+int pop(){                    //its pop
 if(top >=0){
 int val =stack [top];
 top = top -1;
