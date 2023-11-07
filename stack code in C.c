@@ -1,5 +1,5 @@
 #include<stdio.h> //heder file.
-#define CAPACITY 3  //define our capacity value 3. we can define anyvalue for capacity.
+#define CAPACITY 3     //define our capacity value 3. we can define anyvalue for capacity.
 int stack [CAPACITY];
 int top= -1;
 
@@ -20,7 +20,7 @@ int val =stack [top];
 top = top -1;
 return val;
 }
-printf(" Execption from pop! Empty stack\n");
+printf(" Execption from pop! Empty stack\n"); //print what you want.
 return -1;
 }
 
