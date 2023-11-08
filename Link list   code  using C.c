@@ -6,7 +6,7 @@ struct node next;
 };
 
 int main(){
-
+//code write here
 
 
 return 0;}
