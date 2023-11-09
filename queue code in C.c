@@ -64,7 +64,7 @@ int main(){
     enqueue(20);
     enqueue(30);
     enqueue(40);
-    printQueue();
+    printQueue();                                       //main workk is here. 
     enqueue(50);
     printQueue();
     enqueue(60);
