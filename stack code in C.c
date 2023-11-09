@@ -32,7 +32,7 @@ push(10);
 push(15);
 push(20);
 
-Printf("POP Item:%d \n", pop());
+Printf("POP Item:%d \n", pop());      //popwork 
 push(50);
 printf("Top of stack: %d\n", peek());
 reyurn 0;
