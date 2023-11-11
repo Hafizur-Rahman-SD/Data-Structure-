@@ -21,7 +21,16 @@ int main(){
     c -> data =29;
       
       
-      
+      a -> next =b;
+      b -> next = c;
+       c -> next = null;
+    // this is trance paft of linnk list 
+
+
+    while (a! =null){
+      printf ("%d ->", a-> data);
+      a= a-> next;
+    }
       
       return 0;
 }
