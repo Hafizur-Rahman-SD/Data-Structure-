@@ -12,3 +12,4 @@ for(i=0; i<size; i++)
 {
 printf("%d \n", arr[i]);
 }                           //hole code is a baby step in link list from array. 
+void createLinkList (int arr [],int size){
