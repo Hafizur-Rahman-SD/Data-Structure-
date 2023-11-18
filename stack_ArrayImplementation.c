@@ -53,7 +53,8 @@ void Print() {
 int main() {	
   // Code to test the implementation. 
   // calling Print() after each push or pop to see the state of stack. 
-	Push(2);Print();
+	
+	Push(2);Print();   //here we print our add and delateing value. 
 	Push(5);Print();
 	Push(10);Print();
 	Pop();Print();
