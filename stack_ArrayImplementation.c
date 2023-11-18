@@ -2,10 +2,10 @@
 // Creating a stack of integers. 
 #include<stdio.h>
 
-#define MAX_SIZE 101
+#define MAX_SIZE 101   /* here we deside our max size*/
 
 int A[MAX_SIZE]; // integer array to store the stack 
-int top = -1;  // variable to mark top of stack in array
+int top = -1;  // variable to mark top of stack in array , also it mark our array ISempty() or not. is its empty then return true . 
 
 // Push operation to insert an element on top of stack. 
 void Push(int x) 
