@@ -1,5 +1,5 @@
 // Write pseudo code for the 5 operations of stack
-//PUSH
+//PUSH,POP,TOP,IsEmpty(),Is Full().
 
 
 int A[15]     //create our array size. 
