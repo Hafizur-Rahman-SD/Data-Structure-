@@ -61,7 +61,7 @@ void printQueue(){
 int main(){
     printf("\n***********\nLet's implement our Queue.\n\n");
     enqueue(10);
-    enqueue(20);
+    enqueue(20);                                 //valu push/enqueue or pop/dequeue
     enqueue(30);
     enqueue(40);
     printQueue();                                       //main workk is here. 
