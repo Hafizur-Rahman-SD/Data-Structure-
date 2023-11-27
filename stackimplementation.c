@@ -26,6 +26,9 @@ return -1;
 
 int main(){
 printf("Implementing my stack in C.\n");
+
+
+  //here do pop(),push() your item. 
 pop();
 push(10);
 push(5);
