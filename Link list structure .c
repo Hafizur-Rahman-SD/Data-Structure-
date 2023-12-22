@@ -5,3 +5,4 @@ struc{ //main structure.
   adress: //next initial value adress
   
 }
+  
