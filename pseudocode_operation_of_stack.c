@@ -19,6 +19,7 @@ top(){
 return A[top]   //return the top value of Arrrays. 
   }
 
+
 //ISEMPTY
 IsEmpty() {
 if (top == -1)
