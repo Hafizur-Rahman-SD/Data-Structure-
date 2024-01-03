@@ -7,7 +7,6 @@ createLinkList (a,3);
 void createLinkList (int arr [],int size){
 }                    // this is  a function skilition. 
 
-
 int i;
 for(i=0; i<size; i++)
 {
