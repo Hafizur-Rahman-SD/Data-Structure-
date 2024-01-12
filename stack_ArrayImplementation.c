@@ -1,5 +1,4 @@
 //Test code done. 
-
 // Stack - Array based implementation. 
 // Creating a stack of integers. 
 #include<stdio.h>
