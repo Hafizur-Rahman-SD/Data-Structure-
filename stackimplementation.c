@@ -1,5 +1,4 @@
 //test code 
-
 #include<stdio.h> //heder file.
 #define CAPACITY 5     //define our capacity value 5. we can define anyvalue for capacity.
 int stack [CAPACITY];
