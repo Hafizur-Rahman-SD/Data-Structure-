@@ -1,5 +1,4 @@
 
-
 //test code 
 #include<stdio.h> //heder file.
 #define CAPACITY 3     //define our capacity value 3. we can define anyvalue for capacity.
